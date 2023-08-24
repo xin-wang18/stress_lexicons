@@ -1,4 +1,4 @@
-stressor lexicons and stressful emotion lexicons.
+Stressor lexicons and stressful emotion lexicons.
 
 If you use our lexicons, please cite paper "Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection"
 
